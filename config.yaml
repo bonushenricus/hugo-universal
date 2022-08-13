@@ -2,7 +2,7 @@ baseurl: https://devcows.github.io/hugo-universal-theme/
 title: Universal
 theme: hugo-universal-theme
 languageCode: en-us
-defaultContentLanguage: en
+defaultContentLanguage: it
 disqusShortname: devcows
 googleAnalytics: ''
 summaryLength: 70
